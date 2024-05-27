@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Lucas Pereira! 😁
 
-<!--
-**LucasPereiraDev/LucasPereiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou cursando Análise e Desenvolvimento de Sistemas e estudando mais sobre JavaScript 👾
+- Atualmente trabalhando somente como Freelancer na área de desenvolvimento no frontend 💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![LucasPereiraDev's Stats](https://github-readme-stats.vercel.app/api?username=LucasPereiraDev&theme=nightowl&show_icons=true&hide_border=false&count_private=true) ![LucasPereiraDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereiraDev&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+
+##
+
+
+<img width='48' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width='48' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width='48' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img width='48' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+          
+          
+          
