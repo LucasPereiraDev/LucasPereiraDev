@@ -1,7 +1,7 @@
 ## Olá, eu sou o Lucas Pereira! 😁
 
-- Estou cursando Análise e Desenvolvimento de Sistemas e estudando mais sobre JavaScript 👾
-- Atualmente trabalhando somente como Freelancer na área de desenvolvimento no frontend 💻
+- Estou cursando Análise e Desenvolvimento de Sistemas e estudando mais sobre Vue.js 👾
+- Atualmente desenvolvo alguns projetos frontend, mas estou buscando minha primeira vaga na área 💻
 
 
 ![LucasPereiraDev's Stats](https://github-readme-stats.vercel.app/api?username=LucasPereiraDev&theme=nightowl&show_icons=true&hide_border=false&count_private=true) ![LucasPereiraDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereiraDev&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
