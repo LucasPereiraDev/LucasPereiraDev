@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas Pereira! 😁
 
-- Estou cursando Análise e Desenvolvimento de Sistemas e estudando mais sobre Vue.js 👾
+- Estou cursando Análise e Desenvolvimento de Sistemas e no momento estudando mais sobre C# e SQL 👾
 - Atualmente desenvolvo alguns projetos frontend, mas estou buscando minha primeira vaga na área 💻
 
 
