@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
-- 🎓 Bacharelado em **Análise e Desenvolvimento de Sistemas**;
+- 🎓 Formação em **Análise e Desenvolvimento de Sistemas**;
 - 📚 Aprofundando conhecimento em **DSA** e **IA**;
 - 🚀 Desenvolvimento de projetos **fullstack**;
 
